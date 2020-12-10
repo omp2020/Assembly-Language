@@ -16,5 +16,5 @@
   ```
   To execute the code
   ```
-  ./file_name
+  ./file_name.exe
   ```
